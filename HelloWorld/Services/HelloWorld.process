@@ -7,7 +7,7 @@
     <pd:returnBindings>
         <root>
             <param>
-                <xsl:value-of select="'Hello Binu'"/>
+                <xsl:value-of select="'Hello Mr Binu'"/>
             </param>
         </root>
     </pd:returnBindings>
